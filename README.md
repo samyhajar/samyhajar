@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samy Hajar</h1>
 <h3 align="center">A Tech passionate and a freshly Full Stack Developer Bootcamp graduate</h3>
 
-- 🔭 I’m currently working on **Postify**
+- 🔭 I’m currently working on **Postlify**
 
 - 🌱 I’m currently learning **Nextjs, React, Postgresql**
 
