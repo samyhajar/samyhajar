@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samy Hajar</h1>
 <h3 align="center">A Tech passionate and a Frontender at its Core</h3>
 <h4 align="center">Using my creativity to touch the Web</h4>
+
 - 🔭 I’m currently working on **Postlify**
 
 - 🌱 I’m currently learning **Nextjs, React, Postgresql**
