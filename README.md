@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Postlify**
 
-- 🌱 I’m currently learning **Nextjs, React, Postgresql**
+- 🌱 Proefficient in **Nextjs, Node, Databases**
 
 - 💬 Ask me about **React, Javascript, Nextjs**
 
