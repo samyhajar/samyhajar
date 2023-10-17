@@ -2,11 +2,11 @@
 <h3 align="center">A Tech passionate and a Frontender at its Core</h3>
 <h4 align="center">Using my creativity to touch the Web</h4>
 
-- 🔭 I’m currently working on **Postlify**
+- 🔭 I’m currently working on **A Custom Chatbot using OpenAI Api, Vuejs & Django**
 
-- 🌱 Proefficient in **Nextjs, Node, Databases**
+- 🌱 Proefficient in **Vuejs, Css , Django**
 
-- 💬 Ask me about **React, Javascript, Nextjs**
+- 💬 Ask me about **React, Javascript, Nextjs, Vuejs, TailwindCss**
 
 - 📫 How to reach me **samy.hajar@gmail.com**
 
