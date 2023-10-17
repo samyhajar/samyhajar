@@ -6,7 +6,7 @@
 
 - 🌱 Proefficient in **Vuejs, Css , Django**
 
-- 💬 Ask me about **React, Javascript, Nextjs, Vuejs, TailwindCss**
+- 💬 Ask me about **React, Javascript, Nextjs, Vuejs & TailwindCss**
 
 - 📫 How to reach me **samy.hajar@gmail.com**
 
