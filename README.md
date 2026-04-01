@@ -2,9 +2,9 @@
 <h3 align="center">A Tech passionate and a Frontender at its Core</h3>
 <h4 align="center">Using my creativity to touch the Web</h4>
 
-- 🔭 I’m currently working on **A Custom Chatbot using OpenAI Api, Vuejs & Django**
+- 🔭 I’m currently working on **An AI based Flutter app for Wine pairing and recipe**
 
-- 🌱 Proefficient in **Vuejs, Css , Django**
+- 🌱 Proefficient in **Nextjs, Supabase, Tailwind, Shadcn**
 
 - 💬 Ask me about **React, Javascript, Nextjs, Vuejs & TailwindCss**
 
